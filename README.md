@@ -1,7 +1,7 @@
 # HAssembler
 ## Hack Assembler
 
-This project is a web based Assembler for the [Hack](http://www.marksmath.com/tecs/hack-asm/hack-asm.html) machine language.
+This project is a web based Assembler for the [Hack](https://docs.wixstatic.com/ugd/56440f_65a2d8eef0ed4e0ea2471030206269b5.pdf) assembly language.
 
 ## System structure
 The system contains 2 services and a test client (browser)
